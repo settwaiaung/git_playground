@@ -7,3 +7,4 @@ echo "make some conflict from cli";
 echo "make some conflict";
 
 echo "make another conflict from web";
+echo "make another conflict from cli";
