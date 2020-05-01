@@ -1,11 +1,11 @@
-#MAIN FLOW  
+# MAIN FLOW  
     working copy  
     add -> staging area  
     commit -> head  
     push  
     pull  
 
-#COMMAND
+# COMMAND
     git init  
     git add .  
     git commit -m  
